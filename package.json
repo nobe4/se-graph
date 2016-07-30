@@ -1,0 +1,13 @@
+{
+  "name": "se-graph",
+  "version": "1.0.0",
+  "description": "Generate StackExchange CSV of user's progression.",
+  "main": "index.js",
+  "author": "nobe4",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0"
+  }
+}
